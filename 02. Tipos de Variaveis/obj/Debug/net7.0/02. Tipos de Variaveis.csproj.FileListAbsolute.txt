@@ -1,0 +1,15 @@
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\bin\Debug\net7.0\02. Tipos de Variaveis.exe
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\bin\Debug\net7.0\02. Tipos de Variaveis.deps.json
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\bin\Debug\net7.0\02. Tipos de Variaveis.runtimeconfig.json
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\bin\Debug\net7.0\02. Tipos de Variaveis.dll
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\bin\Debug\net7.0\02. Tipos de Variaveis.pdb
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.csproj.AssemblyReference.cache
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.AssemblyInfoInputs.cache
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.AssemblyInfo.cs
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.dll
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\refint\02. Tipos de Variaveis.dll
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.pdb
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\02. Tipos de Variaveis.genruntimeconfig.cache
+C:\Users\Gybsom\source\repos\02. Tipos de Variaveis\02. Tipos de Variaveis\obj\Debug\net7.0\ref\02. Tipos de Variaveis.dll
